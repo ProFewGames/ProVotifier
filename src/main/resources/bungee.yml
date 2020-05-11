@@ -1,0 +1,4 @@
+name: ProVotifier
+main: com.profewgames.provotifier.bungee.BungeeCore
+version: 1
+author: ProFewGames

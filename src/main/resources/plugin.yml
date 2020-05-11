@@ -1,0 +1,4 @@
+main: com.profewgames.provotifier.bukkit.BukkitCore
+name: ProVotifier
+version: 1
+author: ProFewGames
